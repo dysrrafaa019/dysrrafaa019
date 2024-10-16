@@ -1,0 +1,49 @@
+<div align="center">
+  <img width= 95% src="https://user-images.githubusercontent.com/129704094/250995786-f4ec3ac8-b56a-4434-b09b-fc9a091a816d.gif">
+</div>
+<div>
+
+  <h2 align="center"> 🗯 Hey, welcome to my profile! Enjoy. 🗯 </h2>
+  <p align="left">
+    What's up? I'm Rafael, 18 years old, brazilian web developer passionate about technology and turning everything into fun! Please feel free to contact me any way you like. Thanks!
+     </p>
+  </div>
+  💬  he/him <br>
+  🏢  Junior Full Stack Developer @dysrrafaa <br>
+  📚  Computer Cientist - 4º Semester <br>
+  🎮  Gamer Boy <br>
+  🗺  SP/Campinas <br>
+  <div>
+    <h2> Contact Me </h2>
+  <p>
+    <a target="_blank" href="raaf.marques019@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a target="_blank" href="https://www.instagram.com/dys_rrafaa"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/dysrrafaa"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  </p>
+</div>
+<div>
+  <h2> Stacks - Languages </h2>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <br>
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <br>
+  <img alt="MySQL" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+ </div>
+ 
+ <h2> Tools - IDE </h2>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img alt="Intellij IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+ </div>
+
+<h2> Games - Plataforms </h2>
+<a target="_blank" href="https://s.team/p/fmpq-tmkg/HCVKQMTC">
+  <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+<img alt="" src=""/>
